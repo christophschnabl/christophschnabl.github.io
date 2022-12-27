@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Christoph Schnabl</title><link>https://christophschnabl.github.io/page/</link><description>Recent content in Pages on Christoph Schnabl</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://christophschnabl.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://christophschnabl.github.io/about/</link><pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate><guid>https://christophschnabl.github.io/about/</guid><description>Education Since 2020 Technical University oy Munich (TUM) Bachelor focusing on Computer Science with a minor in Economics Doing my Thesis at University of Cambridge supervised by Daniel Hugenroth, Filip Rezabek https://www.danielhugenroth.com, https://www.net.in.tum.de/members/rezabek/ Exchange Student at National University of Singapore Since 2022 Center for Digital Technology and Management (CDTM) Electives in Politics, Ivy https://en.getivy.io, Bavarian State Ministry for Digital Affairs Work 2019-2021 willhaben *</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Christoph Schnabl</title>
+    <link>https://christophschnabl.github.io/page/</link>
+    <description>Recent content in Pages on Christoph Schnabl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://christophschnabl.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://christophschnabl.github.io/about/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://christophschnabl.github.io/about/</guid>
+      <description>Education Since 2020 Technical University oy Munich (TUM) Bachelor focusing on Computer Science with a minor in Economics Doing my Thesis at University of Cambridge supervised by Daniel Hugenroth, Filip Rezabek https://www.danielhugenroth.com, https://www.net.in.tum.de/members/rezabek/ Exchange Student at National University of Singapore Since 2022 Center for Digital Technology and Management (CDTM) Electives in Politics, Ivy https://en.getivy.io, Bavarian State Ministry for Digital Affairs Work 2019-2021 willhaben *</description>
+    </item>
+    
+  </channel>
+</rss>

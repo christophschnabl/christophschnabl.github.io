@@ -15,7 +15,7 @@ name: "👋 Hey "
 ---
 
 I am Chris. I am studying Computer Science and am exploring Economics and Computation (think Auction Theory, Game Theory, ...), and Cryptography.
-I've spent some time working as a SWE on backend and data related topics.
+I've also spent some time working as a SWE on backend and data related topics.
 
 
 <!--* I lived in 3 countries (🇸🇬🇩🇪🇦🇹) and been to 18 (🇺🇸🇯🇵🇳🇱🇧🇪🇫🇷🇲🇹🇨🇭🇭🇺🇸🇰🇨🇿🇧🇬🇬🇧🇭🇷🇸🇮🇮🇹)

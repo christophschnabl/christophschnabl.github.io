@@ -26,8 +26,8 @@ pygmentsStyle = "native"
     page = "/:slug/"
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Contact"
+    url = "/contact/"
     weight = -110
 
 # Site wide params and SEO
@@ -51,7 +51,7 @@ pygmentsStyle = "native"
         # host = "scholar.social"
 
     # Enable link to feed in footer
-    blogrss = true
+    #blogrss = false
 
     # Enable pingback and webmention via webmention.io
     webmention = "schnabl.xyz"

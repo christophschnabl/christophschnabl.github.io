@@ -1,0 +1,101 @@
+{{ define "main" }}
+    {{ partial "info.html" . }}
+
+    {{ .Content }}
+
+    <h1 class="article-title p-name">Education</h1>
+    <div class="grid
+    justify-around flex-wrap sm:grid-cols-8">
+        <div class="col-span-1">2023</div>
+        <div class="col-span-5">
+            <b>NUS (National University of Singapore)</b>
+            <ul>
+                <li>Non-graduating Exchange Student in Computer Science</li>
+                <li>Relevant Coursework: Information Theory, Modern Cryptography</li>
+            </ul>
+        </div>
+        <div class="col-span-2">
+            <img class="w-10/12" src="/img/nus.png"></img>
+        </div>
+    </div>
+
+
+    <div class="grid
+    justify-around flex-wrap sm:grid-cols-8">
+        <div class="col-span-1">2022-2023</div>
+        <div class="col-span-5">
+            <div><b>University of Cambridge</b></div>
+            <ul>
+                <li>Bachelor's Thesis: Private Group Management for Mix Networks</li>
+                <li>Supervised by: <a href="https://www.danielhugenroth.com/">Daniel Hugenroth</a> and <a href="https://www.net.in.tum.de/members/rezabek/">Filip Rezabek</a></li>
+            </ul>
+        </div>
+        <div class="col-span-2">
+            <img class="w-10/12" src="/img/cambridge.png">
+        </div>
+    </div>
+
+    <div class="grid
+    justify-around flex-wrap sm:grid-cols-8">
+        <div class="col-span-1">Since 2020</div>
+        <div class="col-span-5">
+            <div><b>TUM (Technical University of Munich)</b></div>
+            <ul>
+                <li>Bachelor's in Computer Science with a Minor in Economics</li>
+                <li>Relevant Coursework: Discrete Math, Linear Algebra, Analysis, Probability Theory, Functional Programming, Theoretical CS</li>
+                <!--<li>Awarded Deutsch>landstipendium (Merit-based scholarship only 1.5% of students in Germany receive)</li>-->
+            </ul>
+        </div>
+        <div class="col-span-2">
+            <img class="w-7/12" src="/img/TUM.svg">
+        </div>
+    </div>
+
+    <div class="grid
+    justify-around flex-wrap sm:grid-cols-8">
+        <div class="col-span-1">Since 2022</div>
+        <div class="col-span-5">
+            <div><b>CDTM (Center for Digital Technology and Management)</b></div>
+            <ul>
+                <li>a</li>
+                <li>b</li>
+            </ul>
+        </div>
+        <div class="col-span-2">
+            <img src="/img/CDTM.png"> <!-- todo adapt based on dark/light mode-->
+        </div>
+    </div>
+
+    <!--<div class="grid
+    justify-around flex-wrap sm:grid-cols-8">
+        <div class="col-span-1">2015-2020</div>
+        <div class="col-span-5">
+            <div><b>HTL Wiener Neustadt (Technical High School)</b></div>
+            <ul>
+                <li>a</li>
+            </ul>
+        </div>
+        <div class="col-span-2">
+            <img class="w-9/12" src="/img/htlwrn.png">
+        </div>
+    </div>-->
+
+
+    <h1 class="article-title p-name">Experience</h1>
+
+
+    <div class="grid
+    justify-around flex-wrap sm:grid-cols-8">
+        <div class="col-span-1">2019-2021</div>
+        <div class="col-span-5">
+            <div><b>Software Engineer at willhaben.at</b></div>
+            <ul>
+                <li>Part timel, full-time ..</li>
+            </ul>
+        </div>
+        <div class="col-span-2">
+            <img class="w-10/12" src="/img/willhaben.svg">
+        </div>
+    </div>
+{{ end }}
+

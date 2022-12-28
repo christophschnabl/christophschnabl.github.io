@@ -1,6 +1,3 @@
-[submodule "themes/astatine"]
-	path = themes/astatine
-	url = git@github.com:hugcis/hugo-astatine-theme.git
 [submodule "themes/hugo-astatine-theme"]
 	path = themes/hugo-astatine-theme
-	url = git@github.com:hugcis/hugo-astatine-theme.git
+	url = git@github.com:christophschnabl/hugo-astatine-theme.git 
